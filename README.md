@@ -7,7 +7,12 @@ The project focuses on interactive UI design, smooth animations, and accessibili
 
 ## Live Demo
 
-(Add your deployed link here – Vercel/Netlify)
+Live Demo: https://astrohack-ui.vercel.app/
+
+
+## Repository
+
+https: //github.com/Md-Mashuque-Idrishi/astrohack-ui
 
 ---
 
@@ -70,7 +75,7 @@ src/
 ### Clone the repository
 
 ```
-git clone https://github.com/your-username/astrohack-ui.git
+git clone https://github.com/Md-Mashuque-Idrishi/astrohack-ui.git
 ```
 
 ### Install dependencies
